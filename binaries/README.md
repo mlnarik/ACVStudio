@@ -5,7 +5,7 @@ It provides a tool for adding pages, setting transitions, adding animations.
 
 ##Requires
 
-- Java SE ([download](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html))
+- Java SE Runtime ([download](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html))
 - any operating system
 
 ##Screenshots
