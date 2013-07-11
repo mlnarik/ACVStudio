@@ -7,3 +7,17 @@ It provides a tool for adding pages, setting transitions, adding animations.
 
 - Java SE ([download](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html))
 - any operating system
+
+##Screenshots
+
+Comic Editor
+
+![pic](http://nexusray.com/external/ACVStudio/editComic.jpg)
+
+Comic Viewer
+
+![pic](http://nexusray.com/external/ACVStudio/viewComic.jpg)
+
+Page Manager
+
+![pic](http://nexusray.com/external/ACVStudio/manageImages.jpg)
